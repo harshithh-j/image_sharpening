@@ -1,0 +1,9 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 40px;
+}
+img {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+}
